@@ -1,4 +1,3 @@
-<?php include 'error-list.php'?>
 <!---
 
     iErrorPage
@@ -10,6 +9,7 @@
 
 
 -->
+<?php include 'error-list.php'?>
 <!DOCTYPE html>
 <html>
 <head>
