@@ -24,16 +24,6 @@
         margin-top: 10%;
         text-align: center;
     }
-    hr {
-        color: black;
-        width: 70%;
-    }
-    .copy {
-        margin-left: 15%;
-        margin-right: 15%;
-        bottom: 0;
-        display: inline;
-    }
     </style>
 </head>
 <body>
