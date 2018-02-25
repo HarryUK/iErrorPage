@@ -19,7 +19,12 @@ ErrorDocument 401 /error.php
 ErrorDocument 403 /error.php
 ErrorDocument 404 /error.php
 ErrorDocument 503 /error.php
-``` to your .htaccess file and if that doesn't exist make one (this is for apache2 different software may or will vary).
+```
+to your .htaccess file and if that doesn't exist make one (this is for apache2 different software may or will vary).
 
 # Credit
 Harry Chris
+
+# License
+You may use but keep the comment that credits me as it is or you can't use this.
+End off. I don't need to write a whole essay for you to understand this just use your brain.
