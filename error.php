@@ -34,7 +34,7 @@
         <img src="https://cappuccino.ml/sadmac.png" width="90px">
         <div class="desc">
             <h2>The Error Description:</h2>
-            <p><?php echo $description ?>
+            <p><?php echo $description ?></p>
         </div>
     </div>
 </body>
